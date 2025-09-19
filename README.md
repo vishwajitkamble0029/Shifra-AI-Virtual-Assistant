@@ -26,7 +26,5 @@ A full-stack voice-enabled AI Virtual Assistant built with React, Node.js, Expre
 - Deployment: Render
 - Version Control: Git & GitHub
 
----
-
 
 
