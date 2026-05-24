@@ -2,7 +2,6 @@
 
 A full-stack voice-enabled AI Virtual Assistant built with React, Node.js, Express, and MongoDB.
 
----
 
 ## 🚀 Features
 
@@ -14,8 +13,8 @@ A full-stack voice-enabled AI Virtual Assistant built with React, Node.js, Expre
 - Responsive UI with React
 - Deployed on Render for easy access
 
+  
 ---
-
 ## 🛠️ Technologies Used
 
 - Frontend: React, Web Speech API
@@ -25,6 +24,9 @@ A full-stack voice-enabled AI Virtual Assistant built with React, Node.js, Expre
 - File Upload: Cloudinary, Multer
 - Deployment: Render
 - Version Control: Git & GitHub
+
+---
+
 
 
 
